@@ -1,0 +1,10 @@
+{
+  "name": "MicroRootAI",
+  "version": "1.0.0",
+  "description": "Smart irrigation AI system",
+  "settings": {
+    "moisture_tracking": true,
+    "auto_irrigation": true,
+    "blockchain_logging": true
+  }
+}
